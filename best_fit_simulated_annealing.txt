@@ -1,0 +1,91 @@
+Minimum bins required: 89 bins 
+
+Bin 1:[26.3, 26.6] | Total Weight: 52.9 
+Bin 2:[36.6, 33.0, 25.6] | Total Weight: 95.2 
+Bin 3:[30.7, 41.4, 25.1] | Total Weight: 97.2 
+Bin 4:[28.7, 25.4, 25.4] | Total Weight: 79.5 
+Bin 5:[48.5, 38.5] | Total Weight: 87.0 
+Bin 6:[37.0, 25.5, 26.4] | Total Weight: 88.9 
+Bin 7:[36.1, 25.2, 38.2] | Total Weight: 99.5 
+Bin 8:[47.3, 25.2, 27.5] | Total Weight: 100.0 
+Bin 9:[47.2, 25.9, 26.9] | Total Weight: 100.0 
+Bin 10:[44.4, 25.8, 27.3] | Total Weight: 97.5 
+Bin 11:[43.9, 27.7, 27.6] | Total Weight: 99.2 
+Bin 12:[28.8, 26.2, 39.7] | Total Weight: 94.7 
+Bin 13:[28.3, 41.9, 25.3] | Total Weight: 95.5 
+Bin 14:[32.0, 27.1, 25.5] | Total Weight: 84.6 
+Bin 15:[27.3, 36.7, 35.2] | Total Weight: 99.2 
+Bin 16:[46.6, 34.7] | Total Weight: 81.3 
+Bin 17:[35.7, 28.1, 33.7] | Total Weight: 97.5 
+Bin 18:[39.5, 35.7] | Total Weight: 75.2 
+Bin 19:[25.9, 25.4, 30.1] | Total Weight: 81.4 
+Bin 20:[47.9, 49.5] | Total Weight: 97.4 
+Bin 21:[49.7, 36.6] | Total Weight: 86.3 
+Bin 22:[31.5, 40.7, 27.5] | Total Weight: 99.7 
+Bin 23:[26.0, 33.3, 35.0] | Total Weight: 94.3 
+Bin 24:[27.1, 35.0, 36.7] | Total Weight: 98.8 
+Bin 25:[35.6, 26.7, 31.8] | Total Weight: 94.1 
+Bin 26:[48.0, 44.6] | Total Weight: 92.6 
+Bin 27:[25.9, 29.5, 37.6] | Total Weight: 93.0 
+Bin 28:[26.7, 36.6, 26.0] | Total Weight: 89.3 
+Bin 29:[25.3, 48.5] | Total Weight: 73.8 
+Bin 30:[47.8, 25.1, 25.2] | Total Weight: 98.1 
+Bin 31:[42.0, 29.2, 26.3] | Total Weight: 97.5 
+Bin 32:[43.4, 25.2, 27.6] | Total Weight: 96.2 
+Bin 33:[47.0, 25.4, 26.8] | Total Weight: 99.2 
+Bin 34:[34.6, 48.1] | Total Weight: 82.7 
+Bin 35:[49.7, 25.0, 25.0] | Total Weight: 99.7 
+Bin 36:[25.3, 44.5, 28.2] | Total Weight: 98.0 
+Bin 37:[41.2, 25.3, 28.7] | Total Weight: 95.2 
+Bin 38:[40.0, 29.4, 25.8] | Total Weight: 95.2 
+Bin 39:[29.7, 25.4, 35.0] | Total Weight: 90.1 
+Bin 40:[28.2, 35.6, 33.6] | Total Weight: 97.4 
+Bin 41:[44.5, 42.2] | Total Weight: 86.7 
+Bin 42:[29.0, 31.3, 27.5] | Total Weight: 87.8 
+Bin 43:[26.2, 35.5, 25.1] | Total Weight: 86.8 
+Bin 44:[27.4, 35.9, 36.3] | Total Weight: 99.6 
+Bin 45:[35.5, 26.3, 26.9] | Total Weight: 88.7 
+Bin 46:[47.1, 25.0, 26.1] | Total Weight: 98.2 
+Bin 47:[27.1, 46.4, 25.9] | Total Weight: 99.4 
+Bin 48:[42.6, 27.2, 29.8] | Total Weight: 99.6 
+Bin 49:[49.8, 39.2] | Total Weight: 89.0 
+Bin 50:[39.2, 25.5, 29.3] | Total Weight: 94.0 
+Bin 51:[48.5, 25.0, 25.2] | Total Weight: 98.7 
+Bin 52:[44.1, 27.2, 26.0] | Total Weight: 97.3 
+Bin 53:[39.2, 29.1, 27.4] | Total Weight: 95.7 
+Bin 54:[35.0, 38.6, 25.3] | Total Weight: 98.9 
+Bin 55:[49.1, 25.1, 25.5] | Total Weight: 99.7 
+Bin 56:[25.8, 43.7, 25.1] | Total Weight: 94.6 
+Bin 57:[30.8, 47.3] | Total Weight: 78.1 
+Bin 58:[41.5, 29.9, 26.1] | Total Weight: 97.5 
+Bin 59:[30.3, 43.0] | Total Weight: 73.3 
+Bin 60:[25.5, 48.8, 25.3] | Total Weight: 99.6 
+Bin 61:[25.9, 25.2, 47.4] | Total Weight: 98.5 
+Bin 62:[41.9, 29.8, 27.6] | Total Weight: 99.3 
+Bin 63:[36.5, 40.5] | Total Weight: 77.0 
+Bin 64:[25.0, 28.1, 34.2] | Total Weight: 87.3 
+Bin 65:[35.1, 29.4, 26.4] | Total Weight: 90.9 
+Bin 66:[49.0, 25.8, 25.0] | Total Weight: 99.8 
+Bin 67:[46.2, 26.4, 27.4] | Total Weight: 100.0 
+Bin 68:[25.0, 45.0, 27.2] | Total Weight: 97.2 
+Bin 69:[42.6, 31.2, 25.3] | Total Weight: 99.1 
+Bin 70:[27.4, 36.2, 35.1] | Total Weight: 98.7 
+Bin 71:[31.4, 26.9, 33.3] | Total Weight: 91.6 
+Bin 72:[49.2, 25.8, 25.0] | Total Weight: 100.0 
+Bin 73:[49.1, 25.0, 25.1] | Total Weight: 99.2 
+Bin 74:[25.9, 36.6, 31.4] | Total Weight: 93.9 
+Bin 75:[35.7, 49.6] | Total Weight: 85.3 
+Bin 76:[40.6, 25.2, 32.5] | Total Weight: 98.3 
+Bin 77:[44.1, 49.5] | Total Weight: 93.6 
+Bin 78:[30.5, 31.8, 36.3] | Total Weight: 98.6 
+Bin 79:[48.5, 25.0, 25.7] | Total Weight: 99.2 
+Bin 80:[37.0, 29.3, 32.9] | Total Weight: 99.2 
+Bin 81:[42.1, 27.1, 27.1] | Total Weight: 96.3 
+Bin 82:[30.8, 39.3, 26.9] | Total Weight: 97.0 
+Bin 83:[37.2, 46.9] | Total Weight: 84.1 
+Bin 84:[48.0, 49.7] | Total Weight: 97.7 
+Bin 85:[26.5, 44.6, 26.2] | Total Weight: 97.3 
+Bin 86:[34.4, 29.4, 28.0] | Total Weight: 91.8 
+Bin 87:[27.8, 28.7, 41.0] | Total Weight: 97.5 
+Bin 88:[40.4, 31.0, 25.5] | Total Weight: 96.9 
+Bin 89:[36.6, 29.8, 30.2] | Total Weight: 96.6 
